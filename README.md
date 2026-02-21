@@ -48,13 +48,13 @@ The scope of this simulated ISMS includes:
 
 The risk assessment followed ISO requirements:
 
-- 1. Asset identification
-- 2. Threat identification
-- 3. Vulnerability identification
-- 4. Impact analysis (CIA)
-- 5. Likelihood assessment
-- 6. Risk evaluation
-- 7. Risk treatment decision
+1. Asset identification
+2.  Threat identification
+3. Vulnerability identification
+4. Impact analysis (CIA)
+5. Likelihood assessment
+6. Risk evaluation
+7. Risk treatment decision
 
 # Risk Formula
 
